@@ -8,10 +8,8 @@ public class Day3 {
             for (i = 0; i < n; i++)
                 System.out.print("* ");
         }
-
         public static void main(String[] a) {
             Day3 obj = new Day3();
             obj.fun(5);
         }
-
 }
