@@ -2,11 +2,21 @@ package quiz;
 
 public class Day5 {
     public static void main(String[] args) {
-        System.out.println("finding the length of String");
+        String str = "2";
 
-        String name = "";
-        int length = name.length();
-        System.out.println("length is :: "+length);
+
+        // to check output uncomment below code
+//            switch(str) {
+//                case '1': System.out.println("one ");
+//                case '2': System.out.println("two ");
+//                case '3': System.out.println("three ");
+//            }
+
+        switch(str) {
+            case "1": System.out.println("one ");
+            case "2": System.out.println("two ");
+            case "3": System.out.println("three ");
+        }
 
     }
 }
