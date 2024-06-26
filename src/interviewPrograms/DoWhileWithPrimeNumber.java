@@ -4,6 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+// Number which is divisible only by 1 and itself
 public class DoWhileWithPrimeNumber {
     static boolean checkPrime(int num) {
         int count = 0;
