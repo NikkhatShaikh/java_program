@@ -1,6 +1,6 @@
 package interviewPrograms;
 
-public class Oprtaors {
+public class Oprators {
     public static void main(String[] args) {
         int a=10;
         int b=10;
