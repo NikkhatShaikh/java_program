@@ -83,7 +83,7 @@ public class ArrayListTest {
         System.out.println();
 
         //------------------sorting---------------
-        System.out.println("---------------------------------------------------");
+        System.out.println("----------------sorting-----------------------------------");
         method.sort(new ComparatorClass());
         System.out.println(method);
 
