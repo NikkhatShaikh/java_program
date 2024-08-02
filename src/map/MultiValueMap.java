@@ -3,6 +3,11 @@ package map;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
+/**
+* Note: can we store multiple key in hashmap -
+ *     no if we try to insert duplicate key old value of that key will override by new value.
+ *     in below approach we can store multiple value to single key.
+* */
 
 public class MultiValueMap {
     public static void main(String[] args) {
